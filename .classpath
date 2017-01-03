@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/asa.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/asaplugin.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/cis.zip"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/DBConsole.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/dbmaen8.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/dbmazh8.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/isql.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/jdbcdrv.zip"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/jlogon.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/jodbc.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/ProcDebug.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/xerces.jar"/>
+	<classpathentry kind="lib" path="C:/devtools/sybase9/SQL Anywhere 8/java/xml4j.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
